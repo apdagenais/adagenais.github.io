@@ -16,7 +16,6 @@ nav a {
 .profile-pic {
     width: 200px;
     height: auto;
-    border-radius: 50%; /* Makes it circular */
     display: block;
     margin: 20px auto;
 }
